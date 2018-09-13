@@ -1,7 +1,5 @@
 package algoritmos;
 
-import java.util.Scanner;
-
 public class Triangulo extends Operaciones {
 	public void  GenerarTriangulo (){
 		int nfilas =6;
