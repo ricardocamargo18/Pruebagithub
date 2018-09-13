@@ -6,7 +6,7 @@ public class Arreglo_30 {
 		// TODO Auto-generated method stub
           
 		int numeros  [] = new int [31];
-		int x,a;
+		int x,a, yotracosa=1000;
 		
         for ( x = 0 ; x < 30 ; x ++) {
             numeros[x]=(int)(Math.random()*10);
