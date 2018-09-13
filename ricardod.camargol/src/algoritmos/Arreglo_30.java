@@ -1,7 +1,5 @@
 package algoritmos;
 
-import java.util.Scanner;
-
 public class Arreglo_30 {
 
 	public static void main(String[] args) {

@@ -2,8 +2,6 @@
 package algoritmos;
 
 import java.util.Scanner;
-
-import java.util.Scanner;
 public class Arreglos_Bidimensional{
 
 	static int n,fact, numero,r,trian;
